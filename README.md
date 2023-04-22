@@ -1,16 +1,11 @@
 # finalcalcu
 
-A new Flutter project.
+Basic calculator UI 
 
-## Getting Started
+Basic calculator logic 
 
-This project is a starting point for a Flutter application.
+Kilometer to Mile converter in your calculator
 
-A few resources to get you started if this is your first Flutter project:
+Add history and persistence to your app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add equation support for your calculator
